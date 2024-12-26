@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.android.hackathon2024_2"
-        minSdk = 24
+        minSdk = 27
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -66,5 +66,9 @@ dependencies {
 
     // Glide와 OkHttp 통합
     implementation("com.github.bumptech.glide:okhttp3-integration:4.14.2")
+
+    // Calendar
+    implementation("com.github.prolificinteractive:material-calendarview:2.0.1")
+    implementation("com.jakewharton.threetenabp:threetenabp:1.1.1")
 
 }

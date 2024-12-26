@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <size android:height="3dp" /> <!-- 언더바 두께 -->
+            <solid android:color="#FFB11F" /> <!-- 언더바 색상 -->
+            <padding
+                android:left="50dp"
+            android:right="50dp" />
+            <corners
+                android:radius="10dp"/>
+        </shape>
+    </item>
+</layer-list>

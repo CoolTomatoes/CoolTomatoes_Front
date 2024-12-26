@@ -1,0 +1,130 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_career_skills"
+    android:layout_width="match_parent"
+    android:layout_height="113dp"
+    android:layout_marginTop="6dp"
+    android:layout_marginBottom="6dp"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp"
+    app:cardCornerRadius="13dp"
+    app:cardElevation="2dp">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- 배경 이미지 설정 -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="#ffffff" />
+
+        <!-- 다른 UI 요소들 -->
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/question_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/pretendard_bold"
+                android:text="구체적인 관찰과 반성적 관찰을 선호합니다."
+                android:textColor="@color/black"
+                android:textSize="16dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <RadioGroup
+                android:id="@+id/radioGroup"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question_title">
+
+                <RadioButton
+                    android:id="@+id/radioButton"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="83dp"
+                    android:background="@drawable/selector_radio_btn"
+                    android:button="@null"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="30dp"
+                    android:textAlignment="center" />
+
+                <RadioButton
+                    android:id="@+id/radioButton2"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginRight="83dp"
+                    android:background="@drawable/selector_radio_btn"
+                    android:button="@null"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp"
+                    android:textAlignment="center" />
+
+                <RadioButton
+                    android:id="@+id/radioButton3"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginRight="83dp"
+                    android:background="@drawable/selector_radio_btn"
+                    android:button="@null"
+                    android:paddingLeft="25dp"
+                    android:paddingRight="25dp"
+                    android:textAlignment="center" />
+
+                <RadioButton
+                    android:id="@+id/radioButton4"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginRight="15dp"
+                    android:background="@drawable/selector_radio_btn"
+                    android:button="@null"
+                    android:paddingLeft="25dp"
+                    android:paddingRight="25dp"
+                    android:textAlignment="center" />
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginBottom="7dp"
+                android:fontFamily="@font/pretendard_semibold"
+                android:text="전혀 아니다"
+                android:textColor="#B3000000"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toTopOf="@+id/radioGroup"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:layout_marginBottom="7dp"
+                android:fontFamily="@font/pretendard_semibold"
+                android:text="매우 그렇다"
+                android:textColor="#B3000000"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toTopOf="@+id/radioGroup"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </FrameLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\fragment_record.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\calendar_btm_sheet.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\calendar_btm_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\item_question.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\item_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\item_career_skills.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\item_career_skills.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\activity_test_init.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_test_init.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\activity_timer.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\career_skills_btm_sheet.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\career_skills_btm_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\fragment_report.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "com.android.hackathon2024_2.app-mergeDebugResources-50:/layout/activity_login.xml",
+        "source": "com.android.hackathon2024_2.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\fragment_career_skills.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_career_skills.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\fragment_test_result.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_test_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\fragment_calendar.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\activity_type_test.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_type_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\fragment_my_page.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_my_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\fragment_question_list.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_question_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-mergeDebugResources-50:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_login.xml"
+    }
+]

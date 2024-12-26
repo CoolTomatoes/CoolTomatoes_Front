@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_thin.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_thin.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_activity_timer.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_mypage_box1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\mypage_box1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_custom_tab_indicator.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\custom_tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_icon__stroke_right.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\icon__stroke_right.xml"
+    },
+    {
+        "merged": "com.android.hackathon2024_2.app-debug-51:/layout_activity_login.xml.flat",
+        "source": "com.android.hackathon2024_2.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_login_box1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\login_box1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_fragment_question_list.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_question_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_login_line1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\login_line1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_selector_radio_btn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\selector_radio_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_selector_home_icon.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\selector_home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_line1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\line1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_extralight.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_extralight.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_calendar_btm_sheet.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\calendar_btm_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_send_btn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\send_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_check_icon.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\check_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_item_career_skills.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\item_career_skills.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_detail_btn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\detail_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_home_2.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\home_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_calendar_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\calendar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_fragment_record.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_activity_type_test.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_type_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_icon__stroke_left.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\icon__stroke_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_black.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_black.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_medium.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_medium.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_mypage_line1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\mypage_line1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_bold.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_radio_btn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\radio_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_home_box1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\home_box1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_activity_test_init.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_test_init.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_start_btn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\start_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_light.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_light.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_home_1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\home_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_stop_btn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\stop_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_group_3.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\group_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_fragment_career_skills.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_career_skills.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_fragment_test_result.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_test_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_semibold.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_semibold.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\menu_menu_btm_nav.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\menu\\menu_btm_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_item_question.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\item_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_fragment_my_page.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_my_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_test_box1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\test_box1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_regular.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_career_skills_btm_sheet.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\career_skills_btm_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_pretendard_extrabold.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\pretendard_extrabold.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\font_riasans_extrabold.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\font\\riasans_extrabold.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_up_rounded_rectangle.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\up_rounded_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_login_box2.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\login_box2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_add_btn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\add_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_floating_btn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\floating_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\drawable_egg_icon.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\drawable\\egg_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-debug-51:\\layout_fragment_report.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.7\\com.android.hackathon2024_2.app-main-53:\\layout\\fragment_report.xml"
+    }
+]

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".CalendarFragment">
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/pretendard_semibold"
+        android:text="학습 내역을 기록해주세요!"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+        android:id="@+id/calendar_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="24dp"
+        android:layout_marginTop="20dp"
+        android:paddingTop="20dp"
+        android:paddingStart="47dp"
+        android:paddingEnd="47dp"
+        android:paddingBottom="18dp"
+        android:theme="@style/CalenderViewCustom"
+        android:background="@drawable/calendar_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        app:mcv_dateTextAppearance="@style/CalenderViewDateCustomText"
+        app:mcv_firstDayOfWeek="sunday"
+        app:mcv_leftArrow="@drawable/icon__stroke_left"
+        app:mcv_rightArrow="@drawable/icon__stroke_right"
+        app:mcv_selectionMode="range"
+        app:mcv_showOtherDates="all"
+        app:mcv_tileHeight="50dp"
+        app:mcv_tileWidth="40dp"
+        app:mcv_titleAnimationOrientation="horizontal"
+        app:mcv_weekDayTextAppearance="@style/CalenderViewWeekCustomText" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floating_action_btn"
+        style="@style/Widget.MaterialComponents.FloatingActionButton"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="18dp"
+        android:backgroundTint="#FFB11F"
+        android:src="@drawable/add_btn"
+        app:fabSize="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:maxImageSize="24dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
